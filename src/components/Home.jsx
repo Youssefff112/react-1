@@ -1,4 +1,4 @@
-import avatarImg from '../assets/images/avataaars (4).svg';
+import avatarImg from '../assets/images/avataaars.svg';
 
 export default function Home() {
   return (
